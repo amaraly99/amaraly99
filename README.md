@@ -1,49 +1,18 @@
 # Amar Aly
 
-Senior Computer Engineering student at the **American University of Sharjah** focused on the **theory–to–systems pipeline of machine learning**: understanding model behavior, validating it empirically, and deploying it under real-world constraints.
+Computer Engineering graduate from the **American University of Sharjah** with a strong interest in building AI systems that are not only accurate on paper, but defensible, reproducible, and useful in the real world. 🎓🤖
 
-I’m interested in *why* models work, *when* they fail, and *how* theoretical ideas survive contact with hardware, data noise, and operational limits. I value clean reasoning, reproducibility, and implementations that can be defended line-by-line.
+## Experience
+My work sits at the intersection of **machine learning, computer vision, robotics, and applied AI systems**. I’m interested in how models behave, where they fail, and what happens when research ideas meet real constraints like noisy data, limited hardware, latency, deployment friction, and imperfect evaluation pipelines.
 
-Alongside research, I actively teach and build educational tools because explaining a concept is the fastest way to discover where understanding breaks.
+## Projects
+Recently, I’ve been working across areas such as **ultrasound image segmentation**, **reinforcement learning for mask refinement**, **visual SLAM benchmarking on Raspberry Pi 5**, **visual servoing**, **RAG / AI agents**, and practical AI workflows that connect models to usable tools. 🧠⚙️
 
----
+## Style
+I care a lot about experimental discipline: clean benchmarks, fair comparisons, meaningful metrics, reproducibility, and conclusions that can be defended line by line. Whether I’m evaluating segmentation models, comparing SLAM systems, or building AI-assisted tools, I try to connect theory, implementation, and evidence instead of treating them as separate worlds.
 
-## 🔬 Core Interests
-- Mathematical foundations of deep learning 
-- Model behavior, robustness, and adversarial settings  
-- Experimental design, benchmarking, and statistical validation  
-- Bridging research ideas to deployable systems  
-- Teaching
+## Interests
+Alongside research and engineering, I genuinely enjoy **teaching**. I’ve worked as a tutor and built educational tools because explaining concepts forces real understanding. If an idea cannot be taught clearly, there is probably still something broken underneath. 📚✨
 
----
-
-## 🧠 Research & Engineering Focus
-- **Deep Learning Systems**  
-  Transformer and CNN architectures, training dynamics, inference constraints, and evaluation pipelines.
-
-- **Adversarial ML & Robustness**  
-  Black-box attacks, surrogate modeling, distillation, and behavior transfer analysis.
-
-- **Data & Experimentation Discipline**  
-  Dataset standardization, reproducibility protocols, metric design (IoU, F1, EER), and structured reporting.
-
-- **Applied ML Infrastructure**  
-  Backend systems (FastAPI, Flask), real-time pipelines, and KPI-driven decision support.
-
----
-
-## 🛠 Technical Skills
-**Programming & Systems**  
-Python, C/C++ (Embedded), Java, SQL, HTML/CSS/JavaScript  
-
-**ML / AI**  
-PyTorch, TensorFlow/Keras, Scikit-Learn, NumPy, Matplotlib, OpenCV  
-
-**Data & Analytics**  
-Pandas, Excel, KPI design, EDA, data cleaning, dashboarding  
-
-**Tools & Platforms**  
-Linux, Git, Jupyter, Google Colab (T4 GPU), Arduino, ZigBee  
-
-**Languages**  
-Arabic (Native), English (Fluent)
+## Current Interests
+My current interests include **deep learning systems, computer vision, robotics, model robustness, AI agents, RAG pipelines, benchmarking, and the theory-to-deployment pipeline of machine learning**. I’m especially drawn to work where careful reasoning meets systems that actually run.
