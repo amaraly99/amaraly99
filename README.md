@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Amar Aly | Computer Engineering, AI, Robotics" width="100%" />
+  <img src="assets/banner.png" alt="Amar Aly | Computer Engineering, AI, Robotics" width="100%" height="20%" />
 </div>
 
 # Amar Aly
 
 ```text
-┌────────────────────────────────────────────────────┐
-│  COMPUTER ENGINEERING • AI • ROBOTICS             │
-│  first principles before fashionable answers      │
-└────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────┐
+│  COMPUTER ENGINEERING • Agentic AI • ROBOTICS             │
+│  first principles before fashionable answers              │
+└───────────────────────────────────────────────────────────┘
 ```
 
 Computer Engineering graduate from the **American University of Sharjah**.
